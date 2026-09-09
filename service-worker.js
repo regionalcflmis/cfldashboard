@@ -1,4 +1,4 @@
-const CACHE_NAME = 'moneywise-cfl-dashboard-v1';
+const CACHE_NAME = 'moneywise-cfl-dashboard-v2';
 const CORE_ASSETS = [
   './',
   './index.html',

@@ -1,7 +1,7 @@
 {
   "name": "Moneywise CFL Dashboard",
   "short_name": "CFL Dashboard",
-  "description": "Moneywise CFL Dashboard Aug-2026",
+  "description": "Moneywise CFL Dashboard Sep-2026",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
